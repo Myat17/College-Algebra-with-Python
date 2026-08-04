@@ -1,8 +1,9 @@
 # solving in other ways
-from sympy import var, Eq, solve
+from sympy import var, Eq, solve, symbols
 
 # This creates two symbolic variables
-var('x y')
+# var('x y')
+x, y = symbols('x y')
 
 # First equation set equal to zero, ready to solve
 first_eq = 2*x - y
