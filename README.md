@@ -18,12 +18,16 @@ This repository contains my notes, exercises, and projects completed while study
 ## Repository Structure
 
 ```
-lesson_01/
+lesson_01/ Proportions
+lesson_02/ Solving for x
+lesson_03/ 
 ```
 
 ## Progress
 
-- [ ] Lesson 1     
+- [x] Lesson 1
+- [x] Lesson 2
+- [ ] Lesson 3     
 
 ## Tools
 
