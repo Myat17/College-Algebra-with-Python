@@ -1,13 +1,7 @@
-# Solving linear equations
-"""
-1. x + 7 = 15
-2. 5x - 9 = 16
-3. 3x + 8 = 2x + 19
-4. 7(x-2) = 35
-"""
 from sympy import symbols, solve
 
 x = symbols('x')
+# Solving linear equations
 eq1 = x + 7 -15
 eq2 = 5*x - 9 - 16
 eq3 = 3*x + 8 - 2*x -19
