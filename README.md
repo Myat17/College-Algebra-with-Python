@@ -20,14 +20,16 @@ This repository contains my notes, exercises, and projects completed while study
 ```
 lesson_01/ Proportions
 lesson_02/ Solving for x
-lesson_03/ 
+lesson_03/ Fractions and decimals
+lesson_04/ Functions
 ```
 
 ## Progress
 
 - [x] Lesson 1
 - [x] Lesson 2
-- [ ] Lesson 3     
+- [x] Lesson 3 
+- [ ] Lesson 4    
 
 ## Tools
 
