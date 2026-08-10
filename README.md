@@ -18,10 +18,12 @@ This repository contains my notes, exercises, and projects completed while study
 ## Repository Structure
 
 ```
-lesson_01/ Proportions
-lesson_02/ Solving for x
-lesson_03/ Fractions and decimals
-lesson_04/ Functions
+lesson_01/ Proportions, ratios and conversions
+lesson_02/ Basic Algebra, solving one variable equations
+lesson_03/ Fractions, percents and decimals
+lesson_04/ Functions and using two variables (x,y)
+lesson_05/ Slope and intercept on a graph
+lesson_06/ 
 ```
 
 ## Progress
@@ -29,7 +31,8 @@ lesson_04/ Functions
 - [x] Lesson 1
 - [x] Lesson 2
 - [x] Lesson 3 
-- [ ] Lesson 4    
+- [x] Lesson 4
+- [ ] Lesson 5
 
 ## Tools
 
