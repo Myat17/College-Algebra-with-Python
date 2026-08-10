@@ -25,7 +25,21 @@ plt.axis([xmin, xmax, ymin, ymax]) # window size
 plt.plot([xmin, xmax], [0, 0], 'b') # blue x axis
 plt.plot([0, 0], [ymin, ymax], 'b') # blue y axis
 
-y = 2*x + 1
-plt.plot(x, y, 'r')
+# Setting labels
+ax.set_xlabel("x values")
+ax.set_ylabel("y values")
+ax.set_title("Functions")
+ax.grid(True)
+
+# arrange tick mark every 2 numbers in x and y direction
+ax.set_xticks(np.arange(xmin, xmax, 1))
+ax.set_yticks(np.arange(ymin, ymax, 1))
+
+y1 = x**2 + 1
+y2 = x**3 + 2*x +1
+plt.plot(x, y1, 'g', label='y=x^2+1') 
+plt.plot([4], [6], 'ro', label="(4,6)")
+plt.plot(x, y2, 'k', label="y = x^3+2x+1")
+plt.legend()
 
 plt.show()
