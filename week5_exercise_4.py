@@ -11,12 +11,11 @@ x1 = 0 # Assume 2004 is a starting year
 y1 = 17 # 17 means 1,700
 x2 = 8
 y2 = 25
-
-print(f"The population grow {(y2-y1)*100} between 2004 and 2012.")
-print(f"The average population growth per year = {((y2 + y1)/x2)*100}")
+print(f"The population grew by {(y2-y1)*100} between 2004 and 2012.")
 
 # Setup the equation
 m = (y2 - y1) / (x2 - x1)
+print(f"The average population growth per year = {m*100}")
 b = y1 - m * x1
 print(f"y = {m}x + {b}")
 
