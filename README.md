@@ -23,7 +23,8 @@ lesson_02/ Basic Algebra, solving one variable equations
 lesson_03/ Fractions, percents and decimals
 lesson_04/ Functions and using two variables (x,y)
 lesson_05/ Slope and intercept on a graph
-lesson_06/ 
+lesson_06/ Factoring, finding common factors and factoring square roots
+lesson_07/
 ```
 
 ## Progress
@@ -32,7 +33,8 @@ lesson_06/
 - [x] Lesson 2
 - [x] Lesson 3 
 - [x] Lesson 4
-- [ ] Lesson 5
+- [x] Lesson 5
+- [ ] Lesson 6
 
 ## Tools
 
