@@ -1,17 +1,17 @@
-# Revision for Lesson01
-# Proportions, ratios and conversions
-# Conversion of km to miles
-km_mile = 0.62137119
-def km_to_mile(distance):
-    return distance * km_mile
+# Review Lesson 01
+# Proportions and Conversions
+# Wind tunnel scale converter
+scale_factor = 20
+model_length = float(input("Enter model length or enter 0 if unknown: "))
+full_length = float(input("Enter full length or enter 0 if unknown: "))
 
-def mile_to_km(distance):
-    return distance / km_mile
-
-number = float(input("Enter number to convert from km to mile: "))
-result = km_to_mile(number)
-print(f"{number} km  = {result:.2f} mile")
-
-number2 = float(input("Enter number to convert from mile to km: "))
-result2 = mile_to_km(number2)
-print(f"{number2} mile  = {result2:.2f} km")
+if model_length == 0.0:
+    model_scale = full_length / scale_factor
+    print(f"\nModel length = {model_scale} m")
+elif full_length == 0.0:
+    full_scale = model_length * scale_factor
+    print(f"\nFull scale length = {full_scale} m")
+elif model_length == 0.0 and full_length == 0.0:
+    print("\nError: Both values cannot be unknown")
+else:
+    print("\nError: Enter 0 for exactly one unknown value")
