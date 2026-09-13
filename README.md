@@ -24,7 +24,8 @@ lesson_03/ Fractions, percents and decimals
 lesson_04/ Functions and using two variables (x,y)
 lesson_05/ Slope and intercept on a graph
 lesson_06/ Factoring, finding common factors and factoring square roots
-lesson_07/
+lesson_07/ Graphing systems of equations
+lesson_08/
 ```
 
 ## Progress
@@ -34,7 +35,8 @@ lesson_07/
 - [x] Lesson 3 
 - [x] Lesson 4
 - [x] Lesson 5
-- [ ] Lesson 6
+- [x] Lesson 6
+- [ ] Lesson 7
 
 ## Tools
 
