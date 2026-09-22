@@ -25,7 +25,8 @@ lesson_04/ Functions and using two variables (x,y)
 lesson_05/ Slope and intercept on a graph
 lesson_06/ Factoring, finding common factors and factoring square roots
 lesson_07/ Graphing systems of equations
-lesson_08/
+lesson_08/ Solving systems of two equations
+lesson_09/
 ```
 
 ## Progress
@@ -36,7 +37,8 @@ lesson_08/
 - [x] Lesson 4
 - [x] Lesson 5
 - [x] Lesson 6
-- [ ] Lesson 7
+- [x] Lesson 7
+- [ ] Lesson 8
 
 ## Tools
 
