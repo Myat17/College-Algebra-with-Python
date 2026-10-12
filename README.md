@@ -26,7 +26,8 @@ lesson_05/ Slope and intercept on a graph
 lesson_06/ Factoring, finding common factors and factoring square roots
 lesson_07/ Graphing systems of equations
 lesson_08/ Solving systems of two equations
-lesson_09/
+lesson_09/ Applications of linear systems
+lesson_10/
 ```
 
 ## Progress
@@ -38,7 +39,8 @@ lesson_09/
 - [x] Lesson 5
 - [x] Lesson 6
 - [x] Lesson 7
-- [ ] Lesson 8
+- [x] Lesson 8
+- [ ] Lesson 9
 
 ## Tools
 
