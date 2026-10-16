@@ -7,7 +7,7 @@ from sympy import *
 from sympy.plotting import plot
 from sympy import sqrt
 
-var("x y")
+x,y = var("x y")
 
 # first equation set equal to zero ready to solve
 first = 20 * x + 10 * y - 71750
